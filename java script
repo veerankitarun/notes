@@ -1,0 +1,5 @@
+let js= 'amazing';
+if (js === "amazing") alert("tarun says CIAO to you ");
+
+50+8+34-30;
+console.log(50+8+34-30);

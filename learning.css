@@ -1,0 +1,22 @@
+
+h1:hover{
+    color: blue;
+}
+
+
+h2 [ class = "subtitle" ] {
+    color: blue;
+}
+
+h2 + a {
+    color: rgb(8, 8, 8);
+}
+
+h2[class~=article-subtitle] {
+    background: green;
+    
+}
+
+img {
+    border-radius: 50%;
+}

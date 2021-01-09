@@ -19,7 +19,7 @@ let PI = 3.141;
 
 let myFirstJob = 'Programmer';
 let myCurrentJob = 'teacher';
-// this is easy to understand the if the variable in realtime declaration "myFirstJob" // 
+// this is easy to understand if the variable in realtime declaration "myFirstJob" // 
   let myFirstJob = 'Programmer';
   let myCurrentJob = 'teacher';
 

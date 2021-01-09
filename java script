@@ -4,6 +4,7 @@ if (js === "amazing") alert("tarun says CIAO to you ");
 50+8+34-30;
 console.log(50+8+34-30);
 
+ // the "firstName" is variable and directed to a value called "tarun" // 
 let firstName = "tarun";
 
 console.log(firstName);
@@ -13,8 +14,15 @@ console.log(firstName);
 let jonson_matilda ="JM";
 let $function =27;
 
+
 let person ="jonson";
 let PI = 3.141;
 
-let myFirstJob = 'Programmer';
-let myCurrentJob = 'teacher';
+// this is easy to understand the if the variable in realtime declaration "myFirstJob" // 
+  let myFirstJob = 'Programmer';
+  let myCurrentJob = 'teacher';
+    
+    // in the above the veriable is decleared job1 that means it might get problem in future so it is better to use the requirement type " " //
+    let job1 = 'programmer';
+    let job2 = 'teacher';
+    

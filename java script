@@ -23,6 +23,6 @@ let myCurrentJob = 'teacher';
   let myFirstJob = 'Programmer';
   let myCurrentJob = 'teacher';
 
-    // in the above the veriable is decleared job1 that means it might get problem in future so it is better to use the requirement type " " //
+    // in the above the variable is decleared job1 that means it might get problem in future so it is better to use the requirement type " " //
     let job1 = 'programmer';
     let job2 = 'teacher';

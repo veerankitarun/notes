@@ -26,3 +26,16 @@ let myCurrentJob = 'teacher';
     // in the above the variable is decleared job1 that means it might get problem in future so it is better to use the requirement type " " //
     let job1 = 'programmer';
     let job2 = 'teacher';
+/* this is new topic (data types) 14.01.2012 
+ value can be object or primitive 
+ primitive data type ;
+ example: */
+ let firstName ="tarun";
+ let age = 20;
+ 
+ // Number : Floating point number
+  
+
+    let javaScriptIsFun = trun;
+    console.log(javaScriptIsFun);
+    

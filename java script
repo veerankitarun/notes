@@ -62,16 +62,6 @@ let myCurrentJob = 'teacher';
         // here we have defined the output as 'number'
 
 
-    
-    
-    
-    
-   
-    
-      
-      
-  
-
     let javaScriptIsFun = trun;
     console.log(javaScriptIsFun);
     

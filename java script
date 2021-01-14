@@ -33,7 +33,43 @@ let myCurrentJob = 'teacher';
  let firstName ="tarun";
  let age = 20;
  
- // Number : Floating point number
+ // 1. Number : Floating point number > used for decimals and integers 
+       let age = 32;
+  // 2. string: sequence of characters > used for text
+      let firstName ="tarun"
+  // 3. Boolean : Logical type that can be true or false > used for taking decisions
+      let fullAge=trun;
+  // 4. undefined: value taken by a variable that is not yet defined ('empty value')
+      let children;
+  // 5.  Null: also means 'empty value'
+        ""
+  // 6.  symbol : value that is unique and cannot be changed .
+       
+  // 7. biglnt: large integers that number type can hold
+     
+   /* Javascript has dynamic typing: we do not have to manually degine tath data type of the value stored in a valiable.  instead, datatype are determined automatically. */
+    // value as type, not variable
+    
+    let year;
+    console.log(year);
+    console.log(typeof year);
+     
+     // here we have not define the variable, so the output will be 'undefine'
+      
+       year = 2000;
+       console.log(typeof year);
+        
+        // here we have defined the output as 'number'
+
+
+    
+    
+    
+    
+   
+    
+      
+      
   
 
     let javaScriptIsFun = trun;

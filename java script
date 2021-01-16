@@ -26,7 +26,7 @@ let myCurrentJob = 'teacher';
     // in the above the variable is decleared job1 that means it might get problem in future so it is better to use the requirement type " " //
     let job1 = 'programmer';
     let job2 = 'teacher';
-/* this is new topic (data types) 14.01.2012 
+                                   /* this is new topic (data types) 14.01.2012 
  value can be object or primitive 
  primitive data type ;
  example: */
@@ -64,4 +64,35 @@ let myCurrentJob = 'teacher';
 
     let javaScriptIsFun = trun;
     console.log(javaScriptIsFun);
+    
+                                                // 16.01.21 programming done 
+    //math operations
+const now = 2020;
+const ageTarun = now-2000;
+const agePinky = now-2002;
+
+console.log(ageTarun, agePinky);
+console.log(ageTarun*2, agePinky/10, 2**3);
+
+   const fistName = 'Tarun';
+   const lastName ='Goud';
+   console.log(fistName+' '+lastName);
+
+   //Assignment operators
+
+   let x= 10+5; //15
+   x+=10;  //x = x+10=25
+   x*=4;   //x= x*4=100
+   x++;    // x=x+1
+   x--;     // x=x-1
+  
+  console.log(x);
+  
+  //comparision operators
+
+console.log(ageTarun>agePinky);  // >, <, >=, <=
+console.log(agePinky>=18);
+const isFullAge = ageTarun>=18;
+ console.log(now-2000 > now-2002);
+    
     

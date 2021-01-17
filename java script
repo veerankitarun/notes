@@ -95,7 +95,7 @@ console.log(agePinky>=18);
 const isFullAge = ageTarun>=18;
  console.log(now-2000 > now-2002);
     
-   // today 17.01.2021 coding challenge  
+                                    // today 17.01.2021 coding challenge  
    
 /* Q find out  Mark and John are trying to compare their BMI (Body Mass Index), which is
 calculated using the formula:

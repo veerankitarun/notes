@@ -95,4 +95,22 @@ console.log(agePinky>=18);
 const isFullAge = ageTarun>=18;
  console.log(now-2000 > now-2002);
     
-    
+   // today 17.01.2021 coding challenge  
+   
+/* Q find out  Mark and John are trying to compare their BMI (Body Mass Index), which is
+calculated using the formula:
+BMI = mass / height ** 2 = mass / (height * height) (mass in kg
+and height in meter */
+
+
+const massMark =78 ; 
+const heightMark =1.69 ;
+const massjohn= 92;
+const heightjohn= 1.95;
+
+const BIMmark= massMark/ heightMark**2;
+const BIMjohn = massjohn/(heightjohn* heightjohn);
+const markheightIBM = BIMmark>BIMjohn;
+
+console.log(BIMjohn,BIMmark,markheightIBM);
+ 

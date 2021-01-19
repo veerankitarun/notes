@@ -113,4 +113,34 @@ const BIMjohn = massjohn/(heightjohn* heightjohn);
 const markheightIBM = BIMmark>BIMjohn;
 
 console.log(BIMjohn,BIMmark,markheightIBM);
+
+
+                                  // 19.01.2021 String and template literals
+
+
+const firstName = ' ragav';
+const job = 'scientist';
+const birthdayYear= 2000;
+const year = 2021;
+
+const ragav = "I'm" + firstName + ', a ' +(year - birthdayYear)+' Year old'+job+'!';
+console.log(ragav);
+
+const ragavNew =`I'm ${firstName}, a ${year - birthdayYear} year old ${job}!`;
+
+console.log(ragavNew);
+console.log('just a regular string...');
+
+console.log('string with \n\
+multiple \n\
+lines');
+
+console.log('string \n\
+multiple \n\
+lines');
+
+
+
+
+
  

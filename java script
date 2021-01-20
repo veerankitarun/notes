@@ -140,6 +140,19 @@ multiple \n\
 lines');
 
 
+                                        // 20.01.2021
+               // Q. using an if/else write a code to find the correct age to get driving licence
+
+const jonasAge = 2000;
+const jonasPresentAge = 2021;
+
+if (jonasPresentAge-jonasAge>=22){
+  console.log (`you are eligible for driving licence!`)
+}
+else {
+  console.log(`you are not eligible for driving licence`)
+}
+
 
 
 

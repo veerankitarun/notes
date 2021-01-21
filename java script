@@ -152,6 +152,38 @@ if (jonasPresentAge-jonasAge>=22){
 else {
   console.log(`you are not eligible for driving licence`)
 }
+                                             //21.01.21 today coding challenge
+/* Use the BMI example from Challenge #1, and the code you already wrote, and
+improve it.
+Your tasks:
+1. Print a nice output to the console, saying who has the higher BMI. The message
+is either "Mark's BMI is higher than John's!" or "John's BMI is higher than Mark's!"
+2. Use a template literal to include the BMI values in the outputs. Example: "Mark's
+BMI (28.3) is higher than John's (23.9)!"
+Hint: Use an if/else statement � */
+ 
+  const massMark =78 ; 
+ const heightMark =1.69 ;
+ const massjohn= 92;
+ const heightjohn= 1.95;
+
+ const BIMmark= massMark/ heightMark**2;
+const BIMjohn = massjohn/(heightjohn* heightjohn);
+ const markheightIBM = BIMmark>BIMjohn;
+
+
+if (BIMjohn>BIMmark){
+  console.log (`mark BIM is more then john`)
+}
+else {
+  console.log(`John BIM is more then mark`)
+}
+
+
+
+
+
+
 
 
 
